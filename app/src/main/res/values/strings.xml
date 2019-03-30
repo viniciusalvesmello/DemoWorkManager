@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoWorkManager</string>
+    <string name="of">de</string>
+    <string name="zero">0</string>
+    <string name="number_zero">0</string>
+    <string name="error_dowload_image">Error download image!</string>
+</resources>
